@@ -6,7 +6,7 @@
 
 ## ⚡ Tech Vibes
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c++,nodejs,vue,docker,linux,matlab" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,nodejs,vue,docker,linux,matlab" />
 </div>
 
 ## 🛰 GitHub Stats
